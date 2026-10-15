@@ -8,6 +8,6 @@ CS @ UCL
 
 Currently: training ternary LLMs without master weights → [ttf-ternary](https://github.com/oguzeldereli/ttf-ternary)
 
-[guzeldereli.dev](https://guzeldereli.dev) · [LinkedIn](https://www.linkedin.com/in/ozgurguzeldereli) · [Email](mailto:ozgur@guzeldereli.com)
+[guzeldereli.dev](https://guzeldereli.dev) · [in/ozgurguzeldereli](https://www.linkedin.com/in/ozgurguzeldereli) · [ozgur@guzeldereli.com](mailto:ozgur@guzeldereli.com)
 
 </div>
